@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book should render correctly 1`] = `
+<DocumentFragment>
+  <li
+    class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-cfd5wn-MuiListItem-root"
+  >
+    <div
+      class="MuiListItemText-root MuiListItemText-multiline css-14ln1j6-MuiListItemText-root"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-body1 MuiListItemText-primary css-rizt0-MuiTypography-root"
+      >
+        Test Book
+      </span>
+      <p
+        class="MuiTypography-root MuiTypography-body2 MuiListItemText-secondary css-1a1whku-MuiTypography-root"
+      >
+        Test Author
+      </p>
+    </div>
+  </li>
+</DocumentFragment>
+`;

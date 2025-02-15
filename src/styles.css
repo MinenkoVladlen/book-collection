@@ -1,0 +1,28 @@
+.App {
+  font-family: arial;
+  text-align: center;
+}
+
+body {
+  font-family: arial;
+}
+
+#Form {
+  display: flex;
+  flex-direction: column; 
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: scroll;
+  max-height: 90vh;
+  padding: 20px 0;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
